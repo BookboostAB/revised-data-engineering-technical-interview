@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+
+# Interviewer-only material (kept out of the candidate repo)
+Makefile
+interviewer/
+scripts/
+tests/
+requirements.txt

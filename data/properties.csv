@@ -1,0 +1,9 @@
+property_uuid,property_name,property_group_uuid,property_group_name,city,country_code,currency,timezone,opened_on
+33e6ee3b-3f74-5ec1-a33a-f4a014f46dee,Hotel Lindenhof,48897365-d700-513a-aeb0-6fa9816e8bd8,Lindenhof Hotels,Amsterdam,NL,EUR,Europe/Amsterdam,2014-04-01
+4994ca68-a124-56df-9889-4337dbb2c7dd,Sable House,4caa7148-b46e-51ae-a434-8bc2671810cb,Sable and Co,Berlin,DE,EUR,Europe/Berlin,2013-11-01
+4db43e8e-fc91-571f-b0b9-808f65816054,Atelier Nord,48897365-d700-513a-aeb0-6fa9816e8bd8,Lindenhof Hotels,Stockholm,SE,EUR,Europe/Stockholm,2015-02-01
+5ff35c1a-0653-5020-bf61-e35fcabd955a,Casa Mar,48897365-d700-513a-aeb0-6fa9816e8bd8,Lindenhof Hotels,Lisbon,PT,EUR,Europe/Lisbon,2016-06-15
+8d51078e-6238-5ba0-a46c-597181bea9fd,Riverglass,4caa7148-b46e-51ae-a434-8bc2671810cb,Sable and Co,Lyon,FR,EUR,Europe/Paris,2017-05-01
+92b48bc1-4c40-595f-84ee-3cc5f68baad9,Pont Neuf Rooms,4caa7148-b46e-51ae-a434-8bc2671810cb,Sable and Co,Paris,FR,EUR,Europe/Paris,2012-03-01
+a744ff6b-3985-55d2-a060-bc1ac04a6e2d,Ostend Atelier,4caa7148-b46e-51ae-a434-8bc2671810cb,Sable and Co,Ghent,BE,EUR,Europe/Brussels,2019-01-15
+f6cc0068-4142-559c-9dc3-1ea3d0157416,The Grey Quay,48897365-d700-513a-aeb0-6fa9816e8bd8,Lindenhof Hotels,Copenhagen,DK,EUR,Europe/Copenhagen,2018-09-01
