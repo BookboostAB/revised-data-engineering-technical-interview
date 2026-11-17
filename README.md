@@ -11,7 +11,7 @@
 
 - **Gross and net.** `total_gross_amount` and `total_net_amount` are the gross and net amounts on a reservation. Amounts are in EUR.
 - **Booker and primary guest.** `reservation_guests` links a guest to a reservation. `role` is `booker`, `primary_guest`, or `companion`. `is_primary` is `true` or `false`.
-- **Reservation status.** `status` on `reservations` uses these values: `CANCELED`, `CANCELLED`, `Cancelled`, `Checked-Out`, `Confirmed `, `NO SHOW`, `No Show`, `No-Show`, `Optional`, `TENTATIVE`, `booked`, `canceled`, `cancelled`, `checked out`, `checked_in`, `checked_out`, `checked_out `, `confirmed`, `inhouse`, `no show`, `no_show`, `noshow`, `optional`, `tentative`, `waitlist`.
+- **Reservation status.** `status` on `reservations` shows where the reservation is in its lifecycle: for example tentative or optional, confirmed, waitlist, checked in, checked out, cancelled, or no-show.
 
 ## Summary
 
