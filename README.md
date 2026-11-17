@@ -1,5 +1,18 @@
 # Bookboost guest and reservation exercise
 
+> [!NOTE]
+> You do this exercise live in the interview. It takes about 45 minutes. You work with the panel.
+>
+> No preparation is expected. If you want, spend up to 30 minutes looking at the data before the interview. Do not build anything.
+>
+> We evaluate your process and the assumptions you make. We do not expect a finished solution. You do not need to answer every question or find every data issue.
+
+### Terms
+
+- **Gross and net.** `total_gross_amount` and `total_net_amount` are the gross and net amounts on a reservation. Amounts are in EUR.
+- **Booker and primary guest.** `reservation_guests` links a guest to a reservation. `role` is `booker`, `primary_guest`, or `companion`. `is_primary` is `true` or `false`.
+- **Reservation status.** `status` on `reservations` uses these values: `CANCELED`, `CANCELLED`, `Cancelled`, `Checked-Out`, `Confirmed `, `NO SHOW`, `No Show`, `No-Show`, `Optional`, `TENTATIVE`, `booked`, `canceled`, `cancelled`, `checked out`, `checked_in`, `checked_out`, `checked_out `, `confirmed`, `inhouse`, `no show`, `no_show`, `noshow`, `optional`, `tentative`, `waitlist`.
+
 ## Summary
 
 At Bookboost, data models serve product, analytics, and machine learning. This exercise is a short version of that work. It uses a synthetic hotel guest and reservation dataset.
